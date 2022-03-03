@@ -1,0 +1,15 @@
+{
+    "name": "adair/logistic",
+    "autoload": {
+        "psr-4": {
+            "Adair\\Logistic\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adair Limana",
+            "email": "ada_limana@yahoo.com.br"
+        }
+    ],
+    "require": {}
+}
